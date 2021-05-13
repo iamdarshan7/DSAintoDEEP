@@ -1,0 +1,1 @@
+{"name":"Local: Kth_smallest_element","url":"/home/darshan/Practise/MorePractise/450_Questions/Kth_smallest_element.cpp","tests":[{"id":1620236989508,"input":"5\n7 10 4 20 15\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/darshan/Practise/MorePractise/450_Questions/Kth_smallest_element.cpp","group":"local","local":true}
